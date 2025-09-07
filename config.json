@@ -1,0 +1,6 @@
+{
+    "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "TEXT_CHANNEL_ID": null,
+    "VOICE_CHANNEL_ID": null,
+    "VOLUME": 0.5
+}
